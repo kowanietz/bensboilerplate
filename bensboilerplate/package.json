@@ -1,0 +1,23 @@
+{
+  "name": "bensboilerplate",
+  "displayName": "BensBoilerplate",
+  "publisher": "Ben Kowanietz",
+  "description": "HTML5-Boilerplate",
+  "icon": "images/HTMLicon.png",
+  "version": "0.0.1",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}

@@ -18,6 +18,10 @@
   "categories": [
     "Snippets"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kowanietz/bensboilerplate"
+  },
   "contributes": {
     "snippets": [
       {

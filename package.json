@@ -9,6 +9,12 @@
   "engines": {
     "vscode": "^1.74.0"
   },
+  "keywords": [
+    "boilerplate",
+    "html",
+    "snippet",
+    "html5"
+  ],
   "categories": [
     "Snippets"
   ],
